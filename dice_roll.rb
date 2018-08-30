@@ -4,4 +4,6 @@
 
 def roll
   rand(1..6)
+  # ALT:
+  # [1, 2, 3, 4, 5, 6].sample
 end
